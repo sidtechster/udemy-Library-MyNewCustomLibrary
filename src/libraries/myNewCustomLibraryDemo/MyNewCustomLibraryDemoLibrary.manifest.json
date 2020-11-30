@@ -1,0 +1,9 @@
+{
+  "id": "d3d5b912-09ac-4921-bf10-5f9ee223513e",
+  "alias": "MyNewCustomLibraryDemoLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}
